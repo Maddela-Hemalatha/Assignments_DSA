@@ -1,0 +1,6 @@
+			Pointer 							Array
+1. Pointer is a variable which stores the address of other varriable   1. Array is a group of elements shares common name. Contigous memory location is allocated 
+									  for elements of the array by the compiler
+2. *p = arr or p=&arr[0]					       2. the base address is the location of the first element (index 0) of the array
+3, every elemt of arr can be acessed by using p++		       3. can't access by arr ++ . it is wrong notation
+ 
